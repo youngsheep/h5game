@@ -1,0 +1,17 @@
+{
+  "name": "h5game",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cocos2d-html5": "*"
+  }
+}
